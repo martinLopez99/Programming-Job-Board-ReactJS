@@ -1,10 +1,15 @@
 import "./App.css";
+import { BrowserRouter } from 'react-router-dom'
+import { Route } from 'react-router-dom'
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>HOLA MUNDO</h1>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+
+      </div>
+    </BrowserRouter>
   );
 }
 
