@@ -22,3 +22,6 @@ process.env
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+/src/dataBase/j6h15.jsx
